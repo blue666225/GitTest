@@ -1,0 +1,6 @@
+void	practicefunction()
+{
+	printf("practicepractice");
+
+	
+}
